@@ -2,7 +2,7 @@
 
 <br/>
 
-<a href="[https://www.linkedin.com/in/saket-prag-31b972157/](https://www.linkedin.com/in/smarisolsanchez/)">
+<a href="https://www.linkedin.com/in/smarisolsanchez/">
 <img align="left" alt="Marisol Sanchez" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
