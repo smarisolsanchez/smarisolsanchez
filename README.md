@@ -10,7 +10,7 @@
 
 <br />
 
-Hi,I'm Marisol Sanchez🙌, a student at the University of Pennsylvania, interested in Data Science as well as Data & Software Engineering. Apart from that I love getting involved in Kaggle competitions and Problem Solving.❤✌
+Hi,I'm Marisol Sanchez🙌, a student at the University of Pennsylvania, interested in Data Science as well as Data & Software Engineering. Apart from that I love getting involved in Kaggle competitions and Problem Solving.
 
 
 
